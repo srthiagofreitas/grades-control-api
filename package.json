@@ -1,0 +1,24 @@
+{
+  "name": "grades-control-api",
+  "version": "1.0.0",
+  "description": "Projeto de estudo do Bootcamp do IGTI",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/srthiagofreitas/grades-control-api.git"
+  },
+  "keywords": [],
+  "author": "SrTF",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/srthiagofreitas/grades-control-api/issues"
+  },
+  "homepage": "https://github.com/srthiagofreitas/grades-control-api#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
